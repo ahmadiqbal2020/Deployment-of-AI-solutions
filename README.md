@@ -1,2 +1,2 @@
 ### Deployment-of-AI-solutions
-Developing a project and deploying it on git and using functionalities of git.
+Developed a project and deploying it using functionalities of git.
